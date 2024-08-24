@@ -4,7 +4,7 @@ type Props = {};
 
 const ScreenTwo: React.FC<Props> = (props: Props) => {
   return (
-    <div id="max_width_container">
+    <div id="max_width_container" className="shadow-md">
       screen_two screen_one Lorem ipsum dolor sit amet, consectetur adipisicing
       elit. Excepturi error nisi debitis ab earum, culpa iste rem, neque quaerat
       quod minus, nostrum quas? Eligendi aperiam illum iusto a, commodi

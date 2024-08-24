@@ -1,0 +1,86 @@
+.bg_gradient_blue {
+  background: linear-gradient(180deg, #14be81 -42.88%, #09495e 95.5%);
+}
+
+.bg_search_input {
+  background-color: rgba(245, 246, 247, 1);
+}
+
+.bg_input_close {
+  border: rgba(142, 155, 168, 1);
+}
+
+.bg_right_card_gradient {
+  background: linear-gradient(
+    89.24deg,
+    rgba(204, 161, 20, 0.1) 0%,
+    rgba(235, 192, 50, 0.5) 99.35%
+  );
+}
+
+.bg_profile_card {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.bg_keyboard {
+  background: rgba(209, 213, 219, 1);
+}
+
+.color_keyboard_text {
+  color: rgba(0, 0, 0, 1);
+}
+
+.bg_keyboard_btn {
+  background: rgba(173, 179, 188, 1);
+}
+
+.bg_badge_success {
+  color: rgba(0, 182, 122, 1);
+  background-color: rgba(233, 248, 242, 1);
+}
+
+.bg_badge_alert {
+  background-color: rgba(233, 59, 80, 1);
+}
+
+.closer {
+  width: 7rem;
+  margin: auto;
+  height: 0.2rem;
+  border-radius: 20px;
+  background-color: rgba(14, 14, 14, 1);
+}
+
+/* background: rgba(255, 255, 255, 1);
+background: rgba(14, 14, 14, 1);
+background: rgba(89, 96, 102, 1);
+background: rgba(245, 246, 247, 1);
+background: rgba(142, 155, 168, 1);
+background: rgba(236, 243, 250, 1);
+background: rgba(198, 207, 215, 1);
+background: rgba(255, 255, 255, 1);
+background: rgba(0, 182, 122, 1);
+background: rgba(28, 181, 122, 1);
+background: rgba(235, 192, 50, 1);
+background: rgba(233, 59, 80, 1);
+background: rgba(236, 243, 250, 1);
+background: rgba(243, 243, 243, 1);
+background: rgba(0, 0, 0, 1);
+background: rgba(255, 255, 255, 1);
+background: rgba(233, 248, 242, 1);
+background: rgba(0, 0, 0, 1);
+background: rgba(252, 252, 254, 1);
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) -8.87%, rgba(0, 0, 0, 0.6) 100%);
+background: rgba(14, 14, 14, 0.4);
+background: rgba(255, 255, 255, 0.1);
+background: rgba(173, 179, 188, 1);
+background: rgba(28, 181, 122, 1);
+background: rgba(80, 85, 92, 1);
+background: rgba(255, 255, 255, 1);
+background: linear-gradient(180deg, #14BE81 -42.88%, #09495E 95.5%);
+background: rgba(198, 206, 203, 0.32);
+background: linear-gradient(89.24deg, rgba(204, 161, 20, 0.1) 0%, rgba(235, 192, 50, 0.5) 99.35%);
+background: rgba(209, 213, 219, 1);
+background: rgba(255, 255, 255, 0.2);
+background: rgba(255, 255, 255, 0.16);
+ */
