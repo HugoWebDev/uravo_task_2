@@ -1,3 +1,4 @@
 import { bottom_nav } from "./bottom_nav";
 import { rows } from "./table";
-export { bottom_nav, rows };
+import { products } from "./products_list";
+export { bottom_nav, rows, products };

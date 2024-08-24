@@ -11,7 +11,7 @@ const ScreenOne: React.FC = () => {
       <div
         className={`flex flex-col w-full bg_gradient_blue width_22 z-10 fixed ${styles.height_status_bar}`}
       >
-        <StatusBar />
+        <StatusBar theme="dark" />
         <ProfileData />
         <ProfileCards />
       </div>
